@@ -1,3 +1,3 @@
 # manager-react-native
 
-## React Native practice project #4: Manager
+## React Native practice project #4: Manager [WIP]
